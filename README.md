@@ -8,7 +8,7 @@ Members:
 
 
 
-The script `test.py` is the final script where I calculate the average of predictions and where I have utilized ngrok.
+The script `test.py` is the final script where we calculate the average of predictions and where we have utilized ngrok.
 
 The scripts that start with `work_<FIRSTNAME>` are the scripts where we have trained our models (KNN, GMM, SVM).
 
