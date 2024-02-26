@@ -3,7 +3,7 @@ TD 3 Part A
 
 Members:
  - Ahmed MAALOUL
- - Aramis Fayolle
+ - Aramis FAYOLLE
  - Thibaut ERMENAULT
 
 
