@@ -1,0 +1,17 @@
+{
+    "knn": {
+        "deposit": 1000,
+        "weight": 1.3366336633663367,
+        "balance": 1000
+    },
+    "gmm": {
+        "deposit": 1000,
+        "weight": 0.3861386138613861,
+        "balance": 900
+    },
+    "svm": {
+        "deposit": 1000,
+        "weight": 1.2772277227722773,
+        "balance": 1000
+    }
+}
